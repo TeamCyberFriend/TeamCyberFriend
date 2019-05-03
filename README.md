@@ -17,10 +17,10 @@ echo "########################"
 echo
 echo " Pilih Tools Yg mau Digunakan "
 echo
-echo " 1.HackFbBRUTEFORCEnew "| lolcat
-echo " 2.LacakLokasiThelinux "| lolcat
-echo " 3.VirusMematikan " | lolcat
-echo " 4.SpamBoomWa " | lolcat
+echo " 1.HackFbBRUTEFORCEnew "
+echo " 2.LacakLokasiThelinux "
+echo " 3.VirusMematikan "
+echo " 4.SpamBoomWa "
 echo " 5.Keluar
 echo
 echo " Pilih Tools nya "
